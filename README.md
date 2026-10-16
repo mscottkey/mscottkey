@@ -1,16 +1,15 @@
-## Hi there 👋
+# Scott Key
 
-<!--
-**mscottkey/mscottkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI systems hands-on, and lead the teams that run them.
 
-Here are some ideas to get you started:
+I've spent 13 years in customer operations: support, success, implementation, and technical account management. Along the way I moved into AI product, and then into building. I'm not a traditional engineer. I design systems and build them with AI, from multi-agent orchestration to document extraction to the evals that tell me whether any of it works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's here
+
+- [AI-Adjusted Erlang C](https://github.com/mscottkey/ai-adjusted-erlang-c): a support staffing model that shows why standard Erlang C breaks once an AI agent handles part of the queue. [Live demo](https://ai-adjusted-erlang-c.vercel.app/).
+- I also write plugins for [AresMUSH](https://aresmush.com), a platform for text-based games.
+
+## Elsewhere
+
+- Portfolio and writing: [mscottkey.com](https://mscottkey.com)
+- [LinkedIn](https://www.linkedin.com/in/mscottkey/)
